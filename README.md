@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: http://www.yancdrag.top/
+- 📫 How to reach me: http://blog.yancdrag.top/
 - 😄 Pronouns: Banana
 <!-- - ⚡ Fun fact: ... -->
 
