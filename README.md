@@ -24,4 +24,3 @@ Here are some ideas to get you started: -->
 <!-- - 💬 Ask me about ... -->
 - 🌱 I'm a GPNU senior majoring in computer science
 - ⚡ Interested in front-end Web
-- 📫 How to reach me: https://blog.yancdrag.top/
