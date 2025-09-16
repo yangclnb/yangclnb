@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
   <a href="[https://github.com/AtmosphereMao](https://github.com/yangclnb)">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yangclnb" />
   </a>
-  <img align='right' src="https://pic.imgdb.cn/item/6416b3e6a682492fcc882af9.png" width="230">
+<!--   <img align='right' src="https://pic.imgdb.cn/item/6416b3e6a682492fcc882af9.png" width="230"> -->
 </p> 
 
 
